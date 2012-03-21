@@ -50,7 +50,7 @@ def changeHealth(name, change):
 """
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
 	from sys import stdin, stderr, stdout, argv
 	
 	enoughArgs = True
