@@ -1,0 +1,9 @@
+Joseph Daniel Sebacher
+ECE 2524
+Final Project
+health.py
+
+This python script has a single function named changeHealth(String, int)
+This function takes in a string which is the name of the character and an integer, which is the change in the health.
+The function reads in a csv file named characterconfig.csv to recieve the character's current health.
+The function returns a string that either has the character's health or a string that tells that the character is dead.
